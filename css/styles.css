@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+h1{
+    font-size: 428%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+.dh{
+    font-size: 2.5rem;/*40px/16=2.5rem */
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.cc{
+    border-radius: 100%;
+
+}
+.im{
+    border-radius: 40%;
+}
+div{
+
+}
+.top_container{
+    background-color: #E4F9F5;    
+    position: relative;
+    padding: 100px;
+}
+.middle_container
+{
+    height: 200px;
+    width: 200px;
+background-color: blue;
+color: bisque;
+}
+.bottom_container{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+}
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+    
+
+}
+.bottom_cloud{
+position: absolute;
+left: 330px;
+bottom: 410px;
+}
